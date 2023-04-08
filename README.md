@@ -2,6 +2,7 @@
 Video Slicing Project by using OpenCV library in Python.
 
 SAMPLE USAGE
+
 python sliceVideo.py input.avi output.avi .mp4 0 300
 
 - Desired extension should be entered like this: ".mp4" , ".avi"
