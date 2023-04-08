@@ -1,5 +1,5 @@
 # VideoSlicePython
-Video Slicing Project by using OpenCV library in Python.
+Video Slicing Project by frame using OpenCV library in Python.
 
 SAMPLE USAGE
 
